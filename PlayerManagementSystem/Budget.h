@@ -7,7 +7,7 @@ private:
 public:
 	double get_transfer_budget();
 	void set_transfer_budget(double transfer_budget);
-	double getsalary_budget(double salary_);
-	void setsalary_budget(double);
+	double getsalary_budget();
+	void setsalary_budget(double salary_budget);
 };
 
